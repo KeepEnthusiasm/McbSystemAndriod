@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">McbSystem</string>
+    <string-array name="face">
+        <item>群众</item>
+        <item>团员</item>
+        <item>党员</item>
+    </string-array>
+</resources>
